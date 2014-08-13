@@ -1,5 +1,8 @@
 CodingDojo
 ==========
-branches:
+How to run:
 
-07-2014/roman
+```
+pip install nose
+nosetests
+```
